@@ -33,7 +33,7 @@
 #define V1STRING "Common Name,Real Address,Bytes Received,Bytes Sent,Connected Since\n"
 #define V2STRING "HEADER,CLIENT_LIST,Common Name,Real Address,Virtual Address,Bytes Received,Bytes Sent,Connected Since,Connected Since (time_t)\n"
 #define V3STRING "HEADER CLIENT_LIST Common Name Real Address Virtual Address Bytes Received Bytes Sent Connected Since Connected Since (time_t)\n"
-#define V4STRING "HEADER,CLIENT_LIST,Common Name,Real Address,Virtual Address,Bytes Received,Bytes Sent,Connected Since,Connected Since (time_t),Username\n"
+#define V4STRING "TITLE,OpenVPN 2.3.2 x86_64-pc-linux-gnu [SSL (OpenSSL)] [LZO] [EPOLL] [PKCS11] [eurephia] [MH] [IPv6] built on Dec  1 2014\n"
 #define VSSTRING "OpenVPN STATISTICS\n"
 
 
